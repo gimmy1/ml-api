@@ -1,4 +1,4 @@
-[(https://circleci.com/gh/gimmy1/ml-api.svg?style=svg)]
+[[!gimmy1](https://circleci.com/gh/gimmy1/ml-api.svg?style=svg)]
 (https://circleci.com/gh/gimmy1/ml-api.svg?style=svg)
 
 ## Project Overview
