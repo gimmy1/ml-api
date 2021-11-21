@@ -16,4 +16,5 @@ echo "Docker ID and Image: $dockerpath"
 # Push image to a docker repository
 username=gimmyali
 docker --login username $username
+docker tag gimmyali/api $dockerpath
 docker push gimmyali/api
